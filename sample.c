@@ -1,4 +1,4 @@
-#Un comentario para el segundo Commit - Testing
+/* Un comentario para el segundo Commit - Testing */
 #include<stdio.h>
 int main()
 {
